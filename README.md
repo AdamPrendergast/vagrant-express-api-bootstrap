@@ -7,11 +7,11 @@ Virtual Box: https://www.virtualbox.org/
 
 Vagrant Omnibus Plugin
 
-		vagrant plugin install vagrant-omnibus	
+	vagrant plugin install vagrant-omnibus	
 
 Vagrant Berkshelf Plugin
 
-		vagrant plugin install vagrant-berkshelf
+	vagrant plugin install vagrant-berkshelf
 
 
 ## Setup
