@@ -1,5 +1,7 @@
 Bootstrap for Express API with Mocha Test Suite
 
+Test suite uses Sinon, Mockery and Chai
+
 ## Pre-requisites
 
 Vagrant: https://www.vagrantup.com
@@ -38,3 +40,8 @@ http://127.0.0.1:3000/api/add?number1=2&number2=2
 
 	vagrant ssh
 	mocha
+
+## Useful links
+
+Testing
+http://bulkan-evcimen.com/using_mockery_to_mock_modules_nodejs.html
