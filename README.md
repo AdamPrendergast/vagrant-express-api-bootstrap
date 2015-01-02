@@ -22,20 +22,20 @@ Clone Repo
 
 Run Vagrant Up
 
-    	cd project_name
- 	vagrant up
+	cd project_name
+	vagrant up
 
-Run App
+## Run App
 
-    vagrant ssh
-    cd /vagrant
-    node app/app
+	vagrant ssh
+	cd /vagrant
+	node app/app
 
 http://127.0.0.1:3000/
 
 http://127.0.0.1:3000/names.json
 
-Run Tests
+## Run Tests
 
-		cd /vagrant
-		mocha
+	cd /vagrant
+	mocha
