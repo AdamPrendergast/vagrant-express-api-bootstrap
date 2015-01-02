@@ -2,4 +2,4 @@
 
 sudo apt-get update
 
-echo "cd /vagrant/app" >> /home/vagrant/.bashrc
+echo "cd /vagrant" >> /home/vagrant/.bashrc
