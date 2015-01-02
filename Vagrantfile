@@ -5,7 +5,7 @@ Vagrant.configure("2") do |config|
     config.vm.box = "hashicorp/precise32"
     config.vm.box_url = "http://files.vagrantup.com/precise32.box"
 
-    config.vm.host_name = "nh-api"
+    config.vm.host_name = "bootstrap-api"
 
     config.vm.network "forwarded_port", guest:3000, host:3000
 

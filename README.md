@@ -32,7 +32,7 @@ Run Vagrant Up
 
 http://127.0.0.1:3000/
 
-http://127.0.0.1:3000/names.json
+http://127.0.0.1:3000/api/add?number1=2&number2=2
 
 ## Run Tests
 
