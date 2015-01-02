@@ -18,12 +18,12 @@ Vagrant Berkshelf Plugin
 
 Clone Repo
 
-		git clone https://github.com/AdamPrendergast/vagrant-nodejs-bootstrap.git project_name
+	git clone https://github.com/AdamPrendergast/vagrant-express-api-bootstrap.git project_name
 
 Run Vagrant Up
 
-    cd project_name
-  	vagrant up
+    	cd project_name
+ 	vagrant up
 
 Run App
 
