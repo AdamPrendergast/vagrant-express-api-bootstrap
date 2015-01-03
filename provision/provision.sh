@@ -3,4 +3,4 @@
 sudo apt-get update
 
 # Set SSH default directory
-echo "cd /vagrant" >> /home/vagrant/.bashrc
+echo "cd /vagrant/app" >> /home/vagrant/.bashrc

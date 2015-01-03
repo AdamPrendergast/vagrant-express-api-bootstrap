@@ -3,7 +3,7 @@ var sinon = require('sinon')
 
 describe("Calculator Module", function() {
 
-  var calculator = require("../app/modules/calculator-module.js");
+  var calculator = require("../modules/calculator-module.js");
 
 	describe("Add", function(argument) {
 		it('should return 2 when adding 1 and 1', function(){

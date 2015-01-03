@@ -17,7 +17,7 @@ describe("Module with dependency", function() {
 
     dependencyStub = {};
     mockery.registerMock('../external/some-dependency', dependencyStub);
-    module = require("../app/modules/module-with-dependency");
+    module = require("../modules/module-with-dependency");
 
   });
 

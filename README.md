@@ -30,7 +30,7 @@ Run Vagrant Up
 ## Run App
 
 	vagrant ssh
-	node app/app
+	node app
 
 http://127.0.0.1:3000/api/
 

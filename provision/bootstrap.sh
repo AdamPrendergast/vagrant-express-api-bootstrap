@@ -1,8 +1,7 @@
-# Install Mocha and test suite
-cd /vagrant
+cd /vagrant/app
+
+# Install Mocha
 sudo npm install -g mocha
-sudo npm install --save-dev chai sinon mockery
 
 # Bootstrap App
-cd /vagrant/app
 sudo npm install
